@@ -1,8 +1,7 @@
 {
     
     "require": {
-        "cakephp/cakephp": ">=2.5.0",
-	"php":">=5.5*"
+        "cakephp/cakephp": ">=2.5.0"
     },
     "config": {
         "vendor-dir": "Vendor/"
